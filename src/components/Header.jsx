@@ -5,7 +5,7 @@ import Highlight from "@material-ui/icons/Highlight";
 function Header() {
   return (
     <header>
-      <h1><Highlight />Keeper</h1>
+      <h1><Highlight /><b>Keeper</b></h1>
     </header>
   );
 }
